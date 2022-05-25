@@ -1,5 +1,5 @@
-PROG = project04
-OBJS = scan.o parse.o project04.o
+PROG = EBNF
+OBJS = scan.o parse.o EBNF.o
 
 CFLAGS = -g
 
