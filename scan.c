@@ -1,6 +1,6 @@
 /* scan.c - token scanner */
 
-#include "project04.h"
+#include "EBNF.h"
 
 void scan_error(char *err) {
     printf("scan_error: %s\n", err);
