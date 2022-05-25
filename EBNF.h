@@ -1,5 +1,5 @@
-#ifndef _PROJECT04_H
-#define _PROJECT04_H
+#ifndef _EBNF_H
+#define _EBNF_H
 
 #include <fcntl.h>
 #include <stdarg.h>
