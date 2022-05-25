@@ -137,4 +137,4 @@ struct parse_node_st * parse_expression(struct parse_table_st *pt,
 struct parse_node_st * parse_operand(struct parse_table_st *pt,
                                      struct scan_table_st *st);
 
-#endif /* _PROJECT04_H */
+#endif /* _EBNF_H */
